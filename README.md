@@ -20,14 +20,12 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
     </a>
 </p>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;"><img src="Images/echo_drop/gameplay.gif" width="100%"></td>
-    <td style="border: none;"><img src="Images/echo_drop/main_menu.gif" width="100%"></td>
-    <td style="border: none;"><img src="Images/echo_drop/story_scene.png" width="100%"></td>
-    <td style="border: none;"><img src="Images/echo_drop/song_selection.png" width="100%"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="Images/echo_drop/gameplay.gif" width="20%">&nbsp;&nbsp;
+  <img src="Images/echo_drop/main_menu.gif" width="20%">&nbsp;&nbsp;
+  <img src="Images/echo_drop/story_scene.png" width="20%">&nbsp;&nbsp;
+  <img src="Images/echo_drop/song_selection.png" width="20%">
+</p>
 
 <p align="center">• • •</p>
 
