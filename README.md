@@ -1,13 +1,12 @@
 # Hi there 👋, I'm [Vincentius Madya](https://www.linkedin.com/in/vincentius-madya/)
 
-<p>
 <img align="right" height="250" alt="" src="https://steam-stat.vercel.app/api?profileName=darkstalker123" />
 
 - Senior Software Engineer in foodpanda 🐼
 - Based in Singapore 🇸🇬
 - I play and make games 🎮
 
-</p>
+<br clear="all" />
 
 # 🎮 Gamedev Projects
 
