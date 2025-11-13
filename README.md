@@ -8,7 +8,9 @@
 
 # 🎮 Gamedev Projects
 
-<img src="Images/echo_drop/web_wide.png">
+<p align="center">
+    <img height="100px" src="Images/echo_drop/web_wide.png">
+</p>
 
 <p align="center">
 Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! Starting from a humble school performance, playing in cozy cafes, and showcasing their talent along the way.
@@ -29,7 +31,9 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
 
 <p align="center">• • •</p>
 
-<img width="100%" src="Images/scripted/scripted.png">
+<p align="center">
+    <img height="100px" src="Images/scripted/scripted.png">
+</p>
 
 <p align="center">
 <b>Lights. Camera. Playdate!</b> Experience the stories behind the silver screen, one plot at a time. Scripted brings the magic of cinema to your Playdate through the Constellation Browser.
