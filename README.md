@@ -31,7 +31,7 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
   </tr>
 </table>
 
-<hr />
+...
 
 <img width="100%" src="Images/scripted/scripted.png">
 
