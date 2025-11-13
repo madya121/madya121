@@ -40,7 +40,7 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
 </p>
 
 <p align="center">
-### Visit <br/> https://scripted.show/
+<b>Visit <br/> https://scripted.show/ </b>
 </p>
 
 <table>
