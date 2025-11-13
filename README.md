@@ -50,3 +50,26 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
     <img src="Images/scripted/ss4.png" width="20%">
 </p>
 
+---
+
+<p align="center">
+    <img height="150px" src="Images/roojack/roojack.png">
+</p>
+
+<p align="center">
+Be prepared to handle the cuteness of Roojack world. Help <b>Maple</b> and <b>Whippy</b> to prove that one of the urban legends from Roojack was right. Legend says that a treasure was hidden somewhere. In that treasure, there exists something so powerful that it can conquer the world
+</p>
+
+<p align="center">
+    <a href="https://store.steampowered.com/app/728720/Roojack/">
+        <img height="30px" src="https://img.shields.io/badge/BUY%20NOW%20%E2%80%94%20STEAM-1b2838?style=for-the-badge&logo=steam&logoColor=white" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="Images/roojack/ss1.jpg" width="20%">
+    <img src="Images/roojack/ss2.jpg" width="20%">
+    <img src="Images/roojack/ss3.jpg" width="20%">
+    <img src="Images/roojack/ss4.jpg" width="20%">
+</p>
+
