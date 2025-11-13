@@ -36,10 +36,12 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
 <img width="100%" src="Images/scripted/scripted.png">
 
 <p align="center">
-Lights. Camera. Playdate. Experience the stories behind the silver screen, one plot at a time. Scripted brings the magic of cinema to your Playdate through the Constellation Browser.
+<b>Lights. Camera. Playdate!</b> Experience the stories behind the silver screen, one plot at a time. Scripted brings the magic of cinema to your Playdate through the Constellation Browser.
 </p>
 
-### Visit: https://scripted.show/
+<p align="center">
+### Visit <br/> https://scripted.show/
+</p>
 
 <table>
   <tr>
