@@ -44,9 +44,9 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
 </p>
 
 <p align="center">
-    <img src="Images/scripted/ss1.png" width="100%">
-    <img src="Images/scripted/ss2.png" width="100%">
-    <img src="Images/scripted/ss3.png" width="100%">
-    <img src="Images/scripted/ss4.png" width="100%">
+    <img src="Images/scripted/ss1.png" width="20%">
+    <img src="Images/scripted/ss2.png" width="20%">
+    <img src="Images/scripted/ss3.png" width="20%">
+    <img src="Images/scripted/ss4.png" width="20%">
 </p>
 
