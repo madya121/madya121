@@ -29,10 +29,10 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
   <img src="Images/echo_drop/song_selection.png" width="20%">
 </p>
 
-<p align="center">• • •</p>
+---
 
 <p align="center">
-    <img width="100%" src="Images/scripted/scripted.png">
+    <img width="80%" src="Images/scripted/scripted.png">
 </p>
 
 <p align="center">
@@ -43,12 +43,10 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
 <b>Visit <br/> https://scripted.show/ </b>
 </p>
 
-<table>
-  <tr>
-    <td><img src="Images/scripted/ss1.png" width="100%"></td>
-    <td><img src="Images/scripted/ss2.png" width="100%"></td>
-    <td><img src="Images/scripted/ss3.png" width="100%"></td>
-    <td><img src="Images/scripted/ss4.png" width="100%"></td>
-  </tr>
-</table>
+<p align="center">
+    <img src="Images/scripted/ss1.png" width="100%">
+    <img src="Images/scripted/ss2.png" width="100%">
+    <img src="Images/scripted/ss3.png" width="100%">
+    <img src="Images/scripted/ss4.png" width="100%">
+</p>
 
