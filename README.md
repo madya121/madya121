@@ -6,7 +6,7 @@
 
 <img height="250" width="100%" alt="" src="https://steam-stat.vercel.app/api?profileName=darkstalker123" />
 
-# 🎮 Playdate Projects
+# 🎮 Gamedev Projects
 
 <img src="Images/echo_drop/web_wide.png">
 
@@ -15,7 +15,7 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
 </p>
 
 <p align="center">
-    <a href="https://play.date/games/echo-drop/">
+    <a target="_blank" href="https://play.date/games/echo-drop/">
         <img height="50" align="center" src="Images/echo_drop/catalog-dev-link-badge-get.png">
     </a>
 </p>
@@ -24,8 +24,6 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
   <tr>
     <td style="border: none;"><img src="Images/echo_drop/gameplay.gif" width="100%"></td>
     <td style="border: none;"><img src="Images/echo_drop/main_menu.gif" width="100%"></td>
-  </tr>
-  <tr>
     <td style="border: none;"><img src="Images/echo_drop/story_scene.png" width="100%"></td>
     <td style="border: none;"><img src="Images/echo_drop/song_selection.png" width="100%"></td>
   </tr>
@@ -47,8 +45,6 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
   <tr>
     <td><img src="Images/scripted/ss1.png" width="100%"></td>
     <td><img src="Images/scripted/ss2.png" width="100%"></td>
-  </tr>
-  <tr>
     <td><img src="Images/scripted/ss3.png" width="100%"></td>
     <td><img src="Images/scripted/ss4.png" width="100%"></td>
   </tr>
