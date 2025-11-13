@@ -9,7 +9,7 @@
 # 🎮 Gamedev Projects
 
 <p align="center">
-    <img height="100px" src="Images/echo_drop/web_wide.png">
+    <img height="150px" src="Images/echo_drop/web_wide.png">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! S
 <p align="center">• • •</p>
 
 <p align="center">
-    <img height="100px" src="Images/scripted/scripted.png">
+    <img width="100%" src="Images/scripted/scripted.png">
 </p>
 
 <p align="center">
