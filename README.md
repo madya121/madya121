@@ -6,21 +6,19 @@
 
 <img height="250" width="100%" alt="" src="https://steam-stat.vercel.app/api?profileName=darkstalker123" />
 
----
-
 # 🎮 Playdate Projects
 
 <img src="Images/echo_drop/web_wide.png">
 
-<p>
-<center>Join **Mina** and **Kai** on their exciting journey to become great DJs! Starting from a humble school performance, playing in cozy cafes, and showcasing their talent along the way.</center>
-<p>
+<p align="center">
+Join <b>Mina</b> and <b>Kai</b> on their exciting journey to become great DJs! Starting from a humble school performance, playing in cozy cafes, and showcasing their talent along the way.
+</p>
 
-<center>
+<p align="center">
     <a href="https://play.date/games/echo-drop/">
         <img height="50" align="center" src="Images/echo_drop/catalog-dev-link-badge-get.png">
     </a>
-</center>
+</p>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -33,26 +31,24 @@
   </tr>
 </table>
 
----
+<hr />
 
 <img width="100%" src="Images/scripted/scripted.png">
 
-<p>
-<center>
+<p align="center">
 Lights. Camera. Playdate. Experience the stories behind the silver screen, one plot at a time. Scripted brings the magic of cinema to your Playdate through the Constellation Browser.
-</center>
-<p>
+</p>
 
 ### Visit: https://scripted.show/
 
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none;"><img src="Images/scripted/ss1.png" width="100%"></td>
-    <td style="border: none;"><img src="Images/scripted/ss2.png" width="100%"></td>
+    <td><img src="Images/scripted/ss1.png" width="100%"></td>
+    <td><img src="Images/scripted/ss2.png" width="100%"></td>
   </tr>
   <tr>
-    <td style="border: none;"><img src="Images/scripted/ss3.png" width="100%"></td>
-    <td style="border: none;"><img src="Images/scripted/ss4.png" width="100%"></td>
+    <td><img src="Images/scripted/ss3.png" width="100%"></td>
+    <td><img src="Images/scripted/ss4.png" width="100%"></td>
   </tr>
 </table>
 
