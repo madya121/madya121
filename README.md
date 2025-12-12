@@ -57,6 +57,29 @@ Be prepared to handle the cuteness of Roojack world. Help <b>Maple</b> and <b>Wh
 ---
 
 <p align="center">
+    <img width="40%" src="Images/arduboy/arduboy-games.png">
+</p>
+
+<p align="center">
+This is the collection of the Arduboy games that I made during a couple of years. You can play these games directly from your Arduboy by compiling the source code below or buy the <a target="_blank" href="https://www.arduboy.com/">Arduboy FX</a> that has 200 games in it, including these four awesome games 😉.
+</p>
+
+<p align="center">
+    <a target="_blank" href="https://madya121.itch.io/arduboy-games-collection">
+        <img height="30px" src="https://img.shields.io/badge/PLAY%20NOW%20ON%20Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://grimpros.games/images/DanceRowScreen.png" width="20%">
+    <img src="https://grimpros.games/images/SantasFactoryScreen.png" width="20%">
+    <img src="https://grimpros.games/images/PrizeFrenzyScreen.png" width="20%">
+    <img src="https://grimpros.games/images/TnTANKScreen.png" width="20%">
+</p>
+
+---
+
+<p align="center">
     <img width="80%" src="Images/scripted/scripted.png">
 </p>
 
