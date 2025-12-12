@@ -88,7 +88,9 @@ This is the collection of the Arduboy games that I made over a couple of years. 
 </p>
 
 <p align="center">
-<b>Visit <br/> https://scripted.show/ </b>
+    <a target="_blank" href="https://madya121.itch.io/arduboy-games-collection">
+        <img height="30px" src="https://img.shields.io/badge/CHECK%20ON%20https://SCRIPTED.SHOW/-ffd93d?logo=googlechrome&style=for-the-badge&logoColor=black" />
+    </a>
 </p>
 
 <p align="center">
