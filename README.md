@@ -57,11 +57,11 @@ Be prepared to handle the cuteness of Roojack world. Help <b>Maple</b> and <b>Wh
 ---
 
 <p align="center">
-    <img width="40%" src="Images/arduboy/arduboy-games.png">
+    <img width="50%" src="Images/arduboy/arduboy-games.png">
 </p>
 
 <p align="center">
-This is the collection of the Arduboy games that I made during a couple of years. You can play these games directly from your Arduboy by compiling the source code below or buy the <a target="_blank" href="https://www.arduboy.com/">Arduboy FX</a> that has 200 games in it, including these four awesome games 😉.
+This is the collection of the Arduboy games that I made over a couple of years. You can play these games directly from your Arduboy by compiling the source code below or buy the <a target="_blank" href="https://www.arduboy.com/">Arduboy FX</a> that has 200 games in it, including these four awesome games 😉.
 </p>
 
 <p align="center">
