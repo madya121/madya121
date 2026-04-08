@@ -8,7 +8,30 @@
 
 <br clear="all" />
 
-# 🎮 Gamedev Projects
+# Project Highlights
+
+<p align="center">
+    <img height="150px" src="Images/geodate/geodate_banner.png">
+</p>
+
+<p align="center">
+<b>Geodate</b> is a daily geography challenge! Every 24 hours, you are presented with three unique panoramic snapshots of iconic landmarks, hidden gems, and breathtaking landscapes from across the globe.
+</p>
+
+<p align="center">
+    <a target="_blank" href="https://play.date/games/geodate/">
+        <img height="50" align="center" src="Images/echo_drop/catalog-dev-link-badge-get.png">
+    </a>
+</p>
+
+<p align="center">
+  <img src="Images/geodate/animated_gameplay_2.gif" width="20%">&nbsp;&nbsp;
+  <img src="Images/geodate/animated_gameplay_3.gif" width="20%">&nbsp;&nbsp;
+  <img src="Images/geodate/gameplay_1.png" width="20%">&nbsp;&nbsp;
+  <img src="Images/geodate/gameplay_3.png" width="20%">
+</p>
+
+---
 
 <p align="center">
     <img height="150px" src="Images/echo_drop/web_wide.png">
